@@ -77,10 +77,11 @@ export function Footer() {
             © {new Date().getFullYear()} Fabi Costurices. Todos os direitos reservados.
           </p>
           <p className="mt-2 text-xs text-muted-foreground flex items-center justify-center gap-1">
-            Feito por Tiago Ruivo
+            Feito por Tiago Ruivo.
           </p>
         </div>
       </div>
     </footer>
   )
-}
+} 
+
